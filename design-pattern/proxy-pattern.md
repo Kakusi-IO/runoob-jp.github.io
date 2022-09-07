@@ -130,7 +130,7 @@ public class ProxyPatternDemo {
       // １回目は画像をディスクから読み込む
       image.display(); 
       System.out.println("");
-      // ２回目以降は読み込む必要がない
+      // ２回目以降は読み込み不要
       image.display();  
    }
 }
