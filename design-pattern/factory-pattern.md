@@ -42,7 +42,7 @@ Shape インターフェースと、Shape インターフェースを実装し�
 
 FactoryPatternDemoクラスは、ShapeFactoryを使用してShapeオブジェクトを取得します。必要なオブジェクトの種類を取得するために、ShapeFactoryに情報（CIRCLE / RECTANGLE / SQUARE）を渡します。
 
-![](D:\Users\Iehana\Documents\Books\runoob-jp\design-pattern\img\AB6B814A-0B09-4863-93D6-1E22D6B07FF8.jpg)
+![](https://cdn.jsdelivr.net/gh/Kakusi-IO/runoob-img/20220908110137.png)
 
 ### ステップ１
 

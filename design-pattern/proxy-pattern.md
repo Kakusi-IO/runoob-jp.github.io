@@ -56,7 +56,7 @@ Imageインターフェースと、それを実装したエンティティクラ
 
 ProxyPatternDemoクラスは、ProxyImageを使用して、読み込むべきImageオブジェクトを取得し、要求に応じて表示します。
 
-![](D:\Users\Iehana\Documents\Books\runoob-jp\design-pattern\img\20211025-proxy.svg)
+![代理模式的 UML 图](https://www.runoob.com/wp-content/uploads/2014/08/20211025-proxy.svg)
 
 ### ステップ１
 
