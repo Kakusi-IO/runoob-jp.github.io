@@ -2,4 +2,5 @@
 * [デザインパターンとは](design-pattern/intro.md)
 * [Factory Method](/design-pattern/factory-pattern.md)
 * [Proxy パターン](/design-pattern/proxy-pattern.md)
+* [テンプレートパターン](/design-pattern/template-pattern.md)
 * [ホームに戻る](/)
